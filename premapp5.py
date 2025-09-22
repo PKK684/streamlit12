@@ -39,8 +39,7 @@ st.write("""
 - Exploring AI/ML   
 - Coding Challenges  
 """)
-
 #
-# Footer
-st.markdown("---")
-st.markdown("✅ *Made with ❤️ using Streamlit*")
+
+
+
