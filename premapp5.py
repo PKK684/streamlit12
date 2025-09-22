@@ -12,8 +12,8 @@ st.write("""
 - **Name:** Prem Kumar  
 - **Age:** 20  
 - **Gender:** Male  
-- **Email:** premkumar@example.com  
-- **Phone:** +91 9876543210  
+- **Email:** premkumar@gmail.com  
+- **Phone:** +91 7904738707 
 - **Address:** Chennai , India
 """)
 
